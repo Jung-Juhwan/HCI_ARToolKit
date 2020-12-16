@@ -1,10 +1,13 @@
 # HCI_ARToolKit
 
+Practice & Tutorial for AR
+
 ## 1. Google ARCore
 
 ## 2. Vuforia
 
 
+# License
 ```
 MIT License
 
